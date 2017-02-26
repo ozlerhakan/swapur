@@ -1,6 +1,4 @@
-/**
- * Created by Hakan on 2/14/2016.
- */
+
 init();
 
 function createSwapur() {
